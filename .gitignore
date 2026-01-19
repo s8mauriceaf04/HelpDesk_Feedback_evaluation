@@ -1,0 +1,17 @@
+# ignore environment variable files
+.env
+
+# byte-compiled/ optimized/DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Distribution/packaging 
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+ 
