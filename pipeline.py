@@ -141,3 +141,5 @@ if response.status_code == 200:
 
 else:
     print("❌ Failed to fetch data:", response.status_code)
+
+
